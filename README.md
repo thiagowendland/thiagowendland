@@ -1,5 +1,5 @@
-### 👋 Hello World!
-<h4>👉 Um pouco sobre mim</h4>
+## 👋 Hello World!
+#### 👉 Um pouco sobre mim
 🚀 Sou o Thiago e iniciei meu caminho como programador durante o ensino médio, com 15 anos, para criar MODS, servidores e plugins para jogar Minecraft multiplayer. Meu objetivo era criar um servidor aberto ao público, mas não queria apenas utilizar os mods e plugins já existentes, mas sim deixa-los da maneira que eu queria, e foi assim que fiz diante da necessidade, através de videos e muita tentativa e erro, tive sucesso e consegui criar exatamente como queria —  a partir desse momento que começou a minha jornada pelo mundo da programação e a cada código escrito fui me apaixonando cada vez mais.<br>
 🤍 Durante a faculdade de Engenharia de Controle e Automação tive a oportunidade de estudar mais sobre linguagens de programação, e agora ao, finaliza-la, decidi seguir o sonho e me dedicar a evoluir cada vez mais.<br>
 
