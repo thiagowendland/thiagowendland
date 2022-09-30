@@ -13,11 +13,12 @@
 </div>
 <h4>🌐💻 Find me </h4>
 <div style="display: inline_block">
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wendlandthiago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowendland)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagowendland/)
+</div>
 
-</div><br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagowendland&show_icons=true&theme=radical)
 
 
